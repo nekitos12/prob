@@ -1,9 +1,3 @@
-html,
-body,
-div,
-h1,
-a,
-ul,
 li,
 header,
 nav {
@@ -13,15 +7,7 @@ nav {
 li {
   list-style-type: none;
 }
-.header {
-  min-width: 320px;
-  max-height: 88px;
-}
-.header__inner {
-  padding: 16px 16px;
-  display: flex;
-  align-items: center;
-}
+
 .header__list {
   display: flex;
   align-items: center;
